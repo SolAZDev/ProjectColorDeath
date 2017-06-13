@@ -9,7 +9,7 @@ Animation - Naomi Zaiomi (ZaNamtions)
 Character Design - Nicole Olivera
 Programmer - Carlos Orama ([@SolAZDev)
 
-Versiona 1.4a - Partial Animation
+Versiona 1.5 - Jam Release, albeit still buggy ;-;
 
 [Play it here!!](https://solazdev.github.io/ProjectColorDeath/)
 
