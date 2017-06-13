@@ -7,5 +7,9 @@ The Group Consists of 4 people
 Tileset Designer - Astid Casillas
 Animation - Naomi Zaiomi (ZaNamtions)
 Character Design - Nicole Olivera
-Programmer - Carlos Orama (@SolAZDev)
+Programmer - Carlos Orama ([@SolAZDev)
+
+Versiona 1.4a - Partial Animation
+
+[Play it here!!](https://solazdev.github.io/ProjectColorDeath/)
 
